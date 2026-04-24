@@ -1,0 +1,19 @@
+{
+  "q1_matches_count": 49287,
+  "q2_earliest_year": 1872,
+  "q2_latest_year": 2026,
+  "q3_unique_countries": 333,
+  "q4_most_common_home_team": "Brazil",
+  "q4_most_common_home_team_count": 614,
+  "q5_avg_goals_per_match": 2.93849436147516,
+  "q6_highest_scoring_match": "Australia 31.0-0.0 American Samoa on 2001-04-11",
+  "q6_highest_scoring_total_goals": 31,
+  "q7_total_home_goals": 86426,
+  "q7_total_away_goals": 58192,
+  "q7_more_goals_scored_where": "Home",
+  "q8_most_common_total_goals": 2,
+  "q9_home_win_percentage": 48.9094487390184,
+  "q10_home_advantage_exists": true,
+  "q11_country_most_wins": "Brazil",
+  "q11_country_most_wins_count": 670
+}
